@@ -5,7 +5,7 @@
       "mongoUrl": "mongodb://localhost:27017/surf-forecast"
     },
     "auth": {
-      "key": "529b19ae-ed57-11ea-9b26-0242ac130002-529b1a76-ed57-11ea-9b26-0242ac130002",
+      "key": "some-key",
       "tokenExpiresIn": "1000000"
     },
     "resources": {
